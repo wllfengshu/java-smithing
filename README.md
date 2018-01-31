@@ -1,7 +1,7 @@
 # 0 关于作者
 （1）博客地址：http://blog.csdn.net/tiandixuanwuliang  
 （2）微信公众号：天地炫舞
-
+![微信公众号](https://github.com/wllfengshu/javaSmithing/blob/master/0%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 # 1 项目名称：javaSmithing   java修炼
 
@@ -18,65 +18,5 @@
 
 
 # 3 项目内容：
-(PS:圆括号为章节，半圆括号为小节，半尖括号为具体的内容)  
-
-## （1）JavaSE
-### 1）java流程控制
-### 2）数组
-### 3）面向对象
-### 4）常用类
-### 5）异常处理
-### 6）集合
-### 7）IO流
-### 8）多线程
-### 9）网络编程
-### 10）解析xml文件
-### 11）解析json数据
-### 12）反射机制
-### 13）设计模式
-
-## （2）JavaWeb
-### 1）应用服务器
-1>tomcat  
-2>jetty  
-3>jboss  
-4>weblogic  
-5>websphere  
-### 2）JSP/Servlet
-### 3）Ajax
-### 4）JavaScript
-### 5）JQuery
-### 6）JDBC
-### 7）bootstrap
-
-## （3）数据库
-### 1）oracle
-### 2）mysql
-### 3）mongodb
-
-## （4）框架
-### 1）struts2
-### 2）spring
-### 3）hibernate
-### 4）springmvc
-### 5）mybatis
-
-## （5）项目经验
-### 1）dubbo
-### 2）redis
-### 3）rabbitMQ
-### 4）activemq
-### 5）fastdDFS
-### 6）solr
-### 7）REST
-### 8）Swagger
-### 9）sosoapi
-
-## （6）工具应用
-### 1）maven
-### 2）SVN
-### 3）git
-### 4）eclipse
-### 5）myeclipse
-### 6）IDEA
+![项目内容](https://github.com/wllfengshu/javaSmithing/blob/master/0%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/java%E4%BF%AE%E7%82%BC.png)
 
