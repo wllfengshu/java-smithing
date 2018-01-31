@@ -1,6 +1,6 @@
 # 0 关于作者
 （1）博客地址：http://blog.csdn.net/tiandixuanwuliang  
-（2）微信公众号：天地炫舞
+（2）微信公众号：天地炫舞  
 ![微信公众号](https://github.com/wllfengshu/javaSmithing/blob/master/0%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 # 1 项目名称：javaSmithing   java修炼
